@@ -14,7 +14,7 @@ and is being reworked into the seed for a later Unreal Engine port (5.9 or 6.0).
 ## Other projects
 
 - **[Nullmere Online](https://github.com/ael-dev3/Nullmere)**: a persistent strategy MMO for the Mac, with a native Swift and Metal client on a SpacetimeDB server. In development; no public realm yet. [Trailer](https://github.com/ael-dev3/Nullmere/releases/tag/trailer).
-- **[Warpkeep](https://github.com/ael-dev3/Warpkeep)**: a persistent strategy game connected to Farcaster. Development has halted; the code and original assets remain open for reuse.
+- **[Warpkeep](https://github.com/ael-dev3/Warpkeep)**: a persistent strategy game connected to Farcaster, and Nullmere's predecessor. Development has halted; the code and original assets remain open for reuse.
 
 Older games, Farcaster tools and onchain data projects are listed in [Projects](PROJECTS.md).
 
