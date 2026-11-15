@@ -4,10 +4,17 @@ A wider look at what I've been building and exploring. Each project has a short
 description and a status note; the linked sites and public repositories provide more detail.
 Status notes reflect the material reviewed in November 2026.
 
-[Profile](https://github.com/ael-dev3) · [Nullmere](#nullmere) · [Warpkeep](#warpkeep-halted) · [Farcaster](#farcaster-and-social-tools) ·
+[Profile](https://github.com/ael-dev3) · [Tervain](#tervain) · [Nullmere](#nullmere) · [Warpkeep](#warpkeep-halted) ·
+[Farcaster](#farcaster-and-social-tools) ·
 [Games](#games-and-world-prototypes) · [BitCraft](#bitcraft-community-tools) ·
 [Onchain tools](#onchain-data-and-tools) · [Research](#research-and-reference) ·
 [Creative work](#creative-work-and-planned-projects)
+
+## Tervain
+
+| Project | Purpose | Status |
+| --- | --- | --- |
+| [Tervain](https://github.com/ael-dev3/Tervain) | A single-player high-fantasy RPG. The browser prototype is the test bed for the world and its rules; the repository also holds the engine-agnostic core, exported data and a source-only C++ seed for a later Unreal Engine port. [Play](https://ael-dev3.github.io/Tervain/) | Playable browser prototype; in active development |
 
 ## Nullmere
 
@@ -23,13 +30,15 @@ Development has halted; Nullmere is the successor. Repositories are archived.
 | --- | --- | --- |
 | [Warpkeep](https://github.com/ael-dev3/Warpkeep) | A persistent strategy world built around a personal keep. | Halted; archived |
 | [Warpkeep Live](https://github.com/ael-dev3/Warpkeep-Live) | Published alpha frontend and its licensing records. | Archived |
+| [Warpkeep Assets](https://github.com/ael-dev3/Warpkeep-Assets) | The visual source archive: buildings, characters, landscapes, identity and sound, kept with provenance records. | Archived |
 | [Warpkeep Water Engine](https://github.com/ael-dev3/Warpkeep-Water-Engine) | Planned home for reusable water rendering. | Archived placeholder |
 
 ## Farcaster and social tools
 
 | Project | Purpose | Status |
 | --- | --- | --- |
-| [Allthing](https://github.com/ael-dev3/Allthing) | A fast, independent Farcaster client on Snapchain and Hypersnap: read, cast, reply, schedule and attach media. Rust + Leptos on Cloudflare Workers. | Archived |
+| [Allthing](https://github.com/ael-dev3/Allthing) | A fast, independent Farcaster client on Snapchain and Hypersnap: read, cast, reply, schedule and attach media. Rust + Leptos on Cloudflare Workers. | Halted; archived, hosted service shut down |
+| [SnapMeter](https://github.com/ael-dev3/SnapMeter) | A real-time dashboard of active Farcaster accounts across Snapchain and Hypersnap, with a collector and Cloudflare ingestion. | Halted; archived |
 | [Farcaster Context](https://github.com/ael-dev3/Clawberto-Farcaster-Context) | Searchable daily context from node data, with linked conversations and CSV/JSON exports. | Cached context site |
 | [Overlap](https://github.com/ael-dev3/Overlap) | People discovery through collaboration intent and explainable, deterministic matching. | Mini App prototype |
 | [Overlap DB](https://github.com/ael-dev3/Overlap-DB) | Reusable social snapshots and collection scripts, with recent context and recorded coverage limits. | Dataset and tooling |
