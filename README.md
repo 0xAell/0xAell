@@ -1,30 +1,23 @@
-<h1 align="center">Hi, I'm Ael</h1>
+# Ael
 
-<p align="center">I'm building Nullmere Online, a strategy MMO for macOS.</p>
+I build games with AI coding agents and make bilingual AI lyric videos.
 
-<p align="center">
-  <img src="assets/nullmere/moonlit-lake.jpg" width="800" alt="Nullmere: a full moon and stars reflected in a still black lake.">
-</p>
+## Tervain
 
-## Nullmere Online
+A single-player high-fantasy RPG. The prototype runs in a desktop browser today
+and is being reworked into the seed for a later Unreal Engine port (5.9 or 6.0).
 
-One persistent world around a still black lake, shared by every player: a native
-Swift and Metal client, a SpacetimeDB realm, on-device AI, and original 3D models,
-music and sound.
+**[Play Tervain](https://ael-dev3.github.io/Tervain/)** · [Source](https://github.com/ael-dev3/Tervain)
 
-<p align="center">
-  <img src="assets/nullmere/citadel-night.jpg" width="800" alt="Nullmere: a walled citadel with lit windows and a surrounding village at night.">
-</p>
+<a href="https://ael-dev3.github.io/Tervain/"><img src="assets/tervain/ford-meadow.jpg" alt="Tervain: the hero walks through tall meadow grass past timber-framed houses under a low evening sun."></a>
 
-[Repository](https://github.com/ael-dev3/Nullmere) · [Trailer](https://github.com/ael-dev3/Nullmere/releases/tag/trailer)
+## Other projects
 
-## Earlier work
+- **[Nullmere Online](https://github.com/ael-dev3/Nullmere)**: a persistent strategy MMO for the Mac, with a native Swift and Metal client on a SpacetimeDB server. In development; no public realm yet. [Trailer](https://github.com/ael-dev3/Nullmere/releases/tag/trailer).
+- **[Warpkeep](https://github.com/ael-dev3/Warpkeep)**: a persistent strategy game connected to Farcaster, and Nullmere's predecessor. Development has halted; the code and original assets remain open for reuse.
 
-- **[Warpkeep](https://github.com/ael-dev3/Warpkeep)**: Nullmere's predecessor, now halted.
-- **[Ashen Hallow](https://github.com/ael-dev3/Ashen-Hallow)**: a fantasy autobattler playable in the browser. [Play](https://ael-dev3.github.io/Ashen-Hallow/).
-- **[Allthing](https://github.com/ael-dev3/Allthing)**: an independent Farcaster client on Snapchain and Hypersnap, built with Rust and Leptos on Cloudflare Workers.
-- **[Degen Dogs](https://github.com/ael-dev3/Degen-Dogs-Mission-3)**: community auction analytics on Base, with searchable history and downloadable data. [Dashboard](https://ael-dev3.github.io/Degen-Dogs-Mission-3/).
+Older games, Farcaster tools and onchain data projects are listed in [Projects](PROJECTS.md).
 
-All four are archived. More in [Projects](PROJECTS.md).
+## Contact
 
-[Farcaster](https://farcaster.xyz/0xael.eth) · [X](https://x.com/0xAell)
+[X: @0xAell](https://x.com/0xAell) · [Farcaster: 0xael.eth](https://farcaster.xyz/0xael.eth)
