@@ -5,8 +5,7 @@ description and a status note; the linked sites and public repositories provide 
 Status notes reflect the material reviewed in November 2026.
 
 [Profile](https://github.com/ael-dev3) · [Tervain](#tervain) · [Nullmere](#nullmere) · [Warpkeep](#warpkeep-halted) ·
-[Farcaster](#farcaster-and-social-tools) ·
-[Games](#games-and-world-prototypes) · [BitCraft](#bitcraft-community-tools) ·
+[Farcaster](#farcaster-and-social-tools) · [Games](#games-and-world-prototypes) · [BitCraft](#bitcraft-community-tools) ·
 [Onchain tools](#onchain-data-and-tools) · [Research](#research-and-reference) ·
 [Creative work](#creative-work-and-planned-projects)
 

@@ -4,12 +4,12 @@ I build games with AI coding agents and make bilingual AI lyric videos.
 
 ## Tervain
 
-<a href="https://ael-dev3.github.io/Tervain/"><img src="assets/tervain/prototype.jpg" alt="Tervain: timber-framed houses along a dirt road in the village of Rillford."></a>
-
 A single-player high-fantasy RPG. The prototype runs in a desktop browser today
 and is being reworked into the seed for a later Unreal Engine port (5.9 or 6.0).
 
 **[Play Tervain](https://ael-dev3.github.io/Tervain/)** · [Source](https://github.com/ael-dev3/Tervain)
+
+<a href="https://ael-dev3.github.io/Tervain/"><img src="assets/tervain/ford-meadow.jpg" alt="Tervain: the hero walks through tall meadow grass past timber-framed houses under a low evening sun."></a>
 
 ## Other projects
 
