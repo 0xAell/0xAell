@@ -1,7 +1,3 @@
-<h1 align="center">Hi, I'm Ael</h1>
-
-<p align="center">I carry songs across languages and build a strategy MMO for macOS.</p>
-
 ## Waypoint
 
 Songs carried across languages. Bilingual lyric videos: the original words and a translation on screen together, each word lit as it is sung. Mostly Russian into English.
