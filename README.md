@@ -4,8 +4,6 @@
 
 <p align="center">Also <a href="https://github.com/ael-dev3/Tervain">Tervain</a>, a fantasy RPG prototype: <a href="https://ael-dev3.github.io/Tervain/">playable in a browser</a> now, Unreal Engine later.</p>
 
-<p align="center">I build with AI coding agents and make bilingual AI lyric videos.</p>
-
 <p align="center">
   <img src="assets/nullmere/moonlit-lake.jpg" width="800" alt="Nullmere: a full moon and stars reflected in a still black lake.">
 </p>
