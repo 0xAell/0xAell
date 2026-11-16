@@ -25,4 +25,4 @@ Swift and Metal client on a SpacetimeDB realm. In development; no public realm y
 
 ## Contact
 
-[X: @0xAell](https://x.com/0xAell) · [YouTube](https://www.youtube.com/@0xAell) · [Farcaster: 0xael.eth](https://farcaster.xyz/0xael.eth)
+[X: @0xAell](https://x.com/0xAell) · [YouTube](https://www.youtube.com/@0xAell) · [Farcaster: 0xael.eth](https://farcaster.xyz/0xael.eth) · [Email: ael@mail.grokbot.com](mailto:ael@mail.grokbot.com)
