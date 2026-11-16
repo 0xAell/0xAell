@@ -4,22 +4,21 @@ A wider look at what I've been building and exploring. Each project has a short
 description and a status note; the linked sites and public repositories provide more detail.
 Status notes reflect the material reviewed in November 2026.
 
-[Profile](https://github.com/ael-dev3) · [Nullmere](#nullmere) · [Tervain](#tervain) · [Warpkeep](#warpkeep-halted) ·
-[Farcaster](#farcaster-and-social-tools) · [Games](#games-and-world-prototypes) · [BitCraft](#bitcraft-community-tools) ·
-[Onchain tools](#onchain-data-and-tools) · [Research](#research-and-reference) ·
-[Creative work](#creative-work-and-planned-projects)
+[Profile](https://github.com/0xAell) · [Nullmere](#nullmere) · [Tervain](#tervain) · [Warpkeep](#warpkeep-halted) ·
+[Farcaster](#farcaster-and-social-tools) · [Games](#games-and-world-prototypes) ·
+[Onchain tools](#onchain-data-and-tools) · [Research](#research-and-reference) · [Creative work](#creative-work)
 
 ## Nullmere
 
 | Project | Purpose | Status |
 | --- | --- | --- |
-| [Nullmere](https://github.com/ael-dev3/Nullmere) | A native macOS persistent multiplayer 4X strategy MMO: Swift/Metal client, SpacetimeDB realm, on-device AI. [Trailer](https://github.com/ael-dev3/Nullmere/releases/tag/trailer) | In active development |
+| [Nullmere](https://github.com/0xAell/Nullmere) | A native macOS persistent multiplayer 4X strategy MMO: Swift/Metal client, SpacetimeDB realm, on-device AI. [Trailer](https://github.com/0xAell/Nullmere/releases/tag/trailer) | In active development |
 
 ## Tervain
 
 | Project | Purpose | Status |
 | --- | --- | --- |
-| [Tervain](https://github.com/ael-dev3/Tervain) | A single-player high-fantasy RPG. The browser prototype is the test bed for the world and its rules; the repository also holds the engine-agnostic core, exported data and a source-only C++ seed for a later Unreal Engine port. [Play](https://ael-dev3.github.io/Tervain/) | Playable browser prototype; in active development |
+| [Tervain](https://github.com/0xAell/Tervain) | A single-player high-fantasy RPG. The browser prototype is the test bed for the world and its rules; the repository also holds the engine-agnostic core, exported data and a source-only C++ seed for a later Unreal Engine port. [Play](https://0xaell.github.io/Tervain/) | Playable browser prototype; in active development |
 
 ## Warpkeep (halted)
 
@@ -27,75 +26,50 @@ Development has halted; Nullmere is the successor. Repositories are archived.
 
 | Project | Purpose | Status |
 | --- | --- | --- |
-| [Warpkeep](https://github.com/ael-dev3/Warpkeep) | A persistent strategy world built around a personal keep. | Halted; archived |
-| [Warpkeep Live](https://github.com/ael-dev3/Warpkeep-Live) | Published alpha frontend and its licensing records. | Archived |
-| [Warpkeep Assets](https://github.com/ael-dev3/Warpkeep-Assets) | The visual source archive: buildings, characters, landscapes, identity and sound, kept with provenance records. | Archived |
-| [Warpkeep Water Engine](https://github.com/ael-dev3/Warpkeep-Water-Engine) | Planned home for reusable water rendering. | Archived placeholder |
+| [Warpkeep](https://github.com/0xAell/Warpkeep) | A persistent strategy world built around a personal keep. | Halted; archived |
+| [Warpkeep Live](https://github.com/0xAell/Warpkeep-Live) | Published alpha frontend and its licensing records. | Archived |
+| [Warpkeep Assets](https://github.com/0xAell/Warpkeep-Assets) | The visual source archive: buildings, characters, landscapes, identity and sound, kept with provenance records. | Archived |
 
 ## Farcaster and social tools
 
 | Project | Purpose | Status |
 | --- | --- | --- |
-| [Allthing](https://github.com/ael-dev3/Allthing) | A fast, independent Farcaster client on Snapchain and Hypersnap: read, cast, reply, schedule and attach media. Rust + Leptos on Cloudflare Workers. | Halted; archived, hosted service shut down |
-| [SnapMeter](https://github.com/ael-dev3/SnapMeter) | A real-time dashboard of active Farcaster accounts across Snapchain and Hypersnap, with a collector and Cloudflare ingestion. | Halted; archived |
-| [Farcaster Context](https://github.com/ael-dev3/Clawberto-Farcaster-Context) | Searchable daily context from node data, with linked conversations and CSV/JSON exports. | Cached context site |
-| [Overlap](https://github.com/ael-dev3/Overlap) | People discovery through collaboration intent and explainable, deterministic matching. | Mini App prototype |
-| [Overlap DB](https://github.com/ael-dev3/Overlap-DB) | Reusable social snapshots and collection scripts, with recent context and recorded coverage limits. | Dataset and tooling |
-| [Hypercast](https://github.com/ael-dev3/Hypercast) | Cast-history viewing through Hypersnap, with optional SpacetimeDB persistence. | Web prototype |
-| [Hypersnap Client](https://github.com/ael-dev3/Clawberto-Hypersnap-Client) | Remote-node Farcaster posting and content reads, with a Telegram interface. | TypeScript client tools |
-| [Farcaster Agent](https://github.com/ael-dev3/Clawberto-Farcaster-Agent) | An OpenClaw-oriented `farcaster-agent` fork with channel posting and reply support. | Customized upstream CLI; credits retained |
-| [Degen Dogs DAO](https://github.com/ael-dev3/DegenDogs-DAO) | Holder-gated proposals, votes and discussion through a Farcaster Mini App. | Governance app source |
+| [Allthing](https://github.com/0xAell/Allthing) | A fast, independent Farcaster client on Snapchain and Hypersnap: read, cast, reply, schedule and attach media. Rust + Leptos on Cloudflare Workers. | Halted; archived, hosted service shut down |
+| [SnapMeter](https://github.com/0xAell/SnapMeter) | A real-time dashboard of active Farcaster accounts across Snapchain and Hypersnap, with a collector and Cloudflare ingestion. | Halted; archived |
+| [Overlap](https://github.com/0xAell/Overlap) | People discovery through collaboration intent and explainable, deterministic matching. | Mini App prototype |
+| [Overlap DB](https://github.com/0xAell/Overlap-DB) | Reusable social snapshots and collection scripts, with recent context and recorded coverage limits. | Dataset and tooling |
+| [Hypercast](https://github.com/0xAell/Hypercast) | Cast-history viewing through Hypersnap, with optional SpacetimeDB persistence. | Web prototype |
+| [Degen Dogs DAO](https://github.com/0xAell/DegenDogs-DAO) | Holder-gated proposals, votes and discussion through a Farcaster Mini App. | Governance app source |
 
 ## Games and world prototypes
 
 | Project | Purpose | Status |
 | --- | --- | --- |
-| [Ashen Hallow](https://github.com/ael-dev3/Ashen-Hallow) | A fantasy autobattler with tactical deployment, deterministic combat and army progression across rounds. | Browser game; archived |
-| [Mechabellum Prototype](https://github.com/ael-dev3/Mechabellum-prototype) | A positional autobattler experiment with upgrades, enemy deployments and simulation checks. | Earlier game prototype |
-| [DD.Game](https://github.com/ael-dev3/DD.Game) | An independent Degen Dogs underground-club concept; earlier contract experiments are preserved separately. | Static, non-interactive draft; paused |
-| [Clawgwarts](https://github.com/ael-dev3/Clawgwarts) | A Phaser academy world with agent simulations, interactive stations and a simulated action queue. | Interactive prototype |
-| [Pilar](https://github.com/ael-dev3/Pilar) | A shared pixel-art canvas world with in-memory server state and an offline demo. | Mini App prototype; placeholder identity |
-
-## BitCraft community tools
-
-| Project | Purpose | Status |
-| --- | --- | --- |
-| [BitCraft Map Overlay](https://github.com/ael-dev3/Clawberto-Bitcraft) | A regional map with tracked-player updates, cached resources and shareable views. | Map overlay |
-| [BitCraft Library](https://github.com/ael-dev3/Clawberto-Bitcraft-Library) | Searchable community knowledge with source-aware data cards and committed game-data snapshots. | Static knowledge site |
-| [BitCraft Logistics](https://github.com/ael-dev3/Clawberto-Bitcraft-Logistics) | Public player lookup, inventory and storage summaries, market counts and map links. | Lookup prototype; broader logistics planned |
+| [Ashen Hallow](https://github.com/0xAell/Ashen-Hallow) | A fantasy autobattler with tactical deployment, deterministic combat and army progression across rounds. | Browser game; archived |
+| [Mechabellum Prototype](https://github.com/0xAell/Mechabellum-prototype) | A positional autobattler experiment with upgrades, enemy deployments and simulation checks. | Earlier game prototype |
+| [DD.Game](https://github.com/0xAell/DD.Game) | An independent Degen Dogs underground-club concept; earlier contract experiments are preserved separately. | Static, non-interactive draft; paused |
+| [Clawgwarts](https://github.com/0xAell/Clawgwarts) | A Phaser academy world with agent simulations, interactive stations and a simulated action queue. | Interactive prototype |
+| [Pilar](https://github.com/0xAell/Pilar) | A shared pixel-art canvas world with in-memory server state and an offline demo. | Mini App prototype; placeholder identity |
 
 ## Onchain data and tools
 
 | Project | Purpose | Status |
 | --- | --- | --- |
-| [Degen Dogs Mission 3](https://github.com/ael-dev3/Degen-Dogs-Mission-3) | Independent Base auction analytics, an inspectable archive and reproducible Python/SQLite exports. | Community dashboard and pipeline; archived |
-| [Silver Terminal](https://github.com/ael-dev3/Silver-terminal) | Hyperliquid SLV/USDC charts and downloadable candles, with a separate weekly historical reference. | Static chart site |
-| [Silver](https://github.com/ael-dev3/Silver) | Charting source and data pipelines behind the terminal and historical reference. | Source and data tooling |
-| [Ethereum Mainnet Tools](https://github.com/ael-dev3/Clawberto-eth-mainnet) | Ethereum inspection and transaction planning with deterministic JSON output. | Read/plan tools; no broadcasting |
-| [Supernova](https://github.com/ael-dev3/Clawberto-Supernova) | Contract-source records, pool inspection and protocol-specific transaction planning. | Reference archive and tooling |
-| [HyperEVM Tools](https://github.com/ael-dev3/Clawberto-HyperEVM) | Wallet tracing and transaction planning, with a separate signing and broadcast interface. | OpenClaw workflow tools |
-| [Danubio](https://github.com/ael-dev3/Clawberto-Danubio) | Token-launcher integration references and HyperEVM launch preflight checks. | Integration tooling |
-| [veNOVA Scan](https://github.com/ael-dev3/Clawberto-veNova-scan) | Read-only lock/listing analysis and premium/discount reports. | Python analysis tools |
-| [Helius Volume Skill](https://github.com/ael-dev3/Clawberto-shitcoins-helius) | Orb Cults token-volume rankings with optional Helius asset metadata. | Data-query skill |
-| [CopyTrading Monitor](https://github.com/ael-dev3/Clawberto-CopyTrading) | Solana wallet movements, estimated PnL and reproducible dashboard snapshots. | Monitoring tools; estimates have documented limits |
+| [Degen Dogs Mission 3](https://github.com/0xAell/Degen-Dogs-Mission-3) | Independent Base auction analytics, an inspectable archive and reproducible Python/SQLite exports. | Community dashboard and pipeline; archived |
+| [Silver Terminal](https://github.com/0xAell/Silver-terminal) | Hyperliquid SLV/USDC charts and downloadable candles, with a separate weekly historical reference. | Static chart site |
+| [Silver](https://github.com/0xAell/Silver) | Charting source and data pipelines behind the terminal and historical reference. | Source and data tooling |
 
 ## Research and reference
 
 | Project | Purpose | Status |
 | --- | --- | --- |
-| [TON Testnet](https://github.com/ael-dev3/Clawberto-ton-testnet) | Testnet probes, bootstrap helpers and deterministic consensus simulations. | Testnet research tools |
-| [Tempo Notes](https://github.com/ael-dev3/Clawberto-Tempo) | Research on Tempo payments, MPP and a prepaid-card service integration. | Research notes |
-| [Nest Reference](https://github.com/ael-dev3/Clawberto-Nest) | Nest Exchange contract sources and data preserved for HyperEVM research. | Reference archive |
-| [SpacetimeDB Notes](https://github.com/ael-dev3/Clawberto-SpacetimeDB) | Notes on database architecture, real-time state and application patterns. | Research notes only |
-| [Project1](https://github.com/ael-dev3/Project1) | SpacetimeDB study and prototype research. | Study workspace |
+| [Project1](https://github.com/0xAell/Project1) | SpacetimeDB study and prototype research. | Study workspace |
 
-## Creative work and planned projects
+## Creative work
 
 | Project | Purpose | Status |
 | --- | --- | --- |
-| [Neodym](https://github.com/ael-dev3/Neodym) | High-fantasy writing, Book One drafts, character studies and worldbuilding references. | Writing project |
-| [Portfolio](https://github.com/ael-dev3/Portfolio) | A planned Three.js portfolio with accessible interaction and project case studies. | Planning placeholder |
-| [FC_MA](https://github.com/ael-dev3/FC_MA) | Purpose and implementation are not yet documented. | Empty repository |
+| [Neodym](https://github.com/0xAell/Neodym) | High-fantasy writing, Book One drafts, character studies and worldbuilding references. | Writing project |
 
 Source archives and upstream-derived projects keep their recorded attribution
 and licenses. See each repository for the terms attached to its code, data and media.
