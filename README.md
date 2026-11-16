@@ -1,31 +1,28 @@
 <h1 align="center">Hi, I'm Ael</h1>
 
-<p align="center">I'm building Nullmere Online, a strategy MMO for macOS.</p>
+<p align="center">I carry songs across languages and build a strategy MMO for macOS.</p>
 
-<p align="center">Also <a href="https://github.com/0xAell/Tervain">Tervain</a>, a fantasy RPG prototype: <a href="https://0xaell.github.io/Tervain/">playable in a browser</a> now, Unreal Engine later.</p>
+## Waypoint
+
+Songs carried across languages. Bilingual lyric videos: the original words and a translation on screen together, each word lit as it is sung. Mostly Russian into English.
+
+[Catalog](https://github.com/0xAell/Waypoint) · [YouTube](https://www.youtube.com/@0xAell)
+
+## Nullmere Online
 
 <p align="center">
   <img src="assets/nullmere/moonlit-lake.jpg" width="800" alt="Nullmere: a full moon and stars reflected in a still black lake.">
 </p>
 
-## Nullmere Online
-
 One persistent world around a still black lake, shared by every player: a native
-Swift and Metal client, a SpacetimeDB realm, on-device AI, and original 3D models,
-music and sound. In development; no public realm yet.
-
-<p align="center">
-  <img src="assets/nullmere/citadel-night.jpg" width="800" alt="Nullmere: a walled citadel with lit windows and a surrounding village at night.">
-</p>
+Swift and Metal client on a SpacetimeDB realm. In development; no public realm yet.
 
 [Repository](https://github.com/0xAell/Nullmere) · [Trailer](https://github.com/0xAell/Nullmere/releases/tag/trailer)
 
-## Earlier work
+## Also
 
-[Warpkeep](https://github.com/0xAell/Warpkeep), Nullmere's predecessor, is a persistent strategy game connected to Farcaster. Development has halted; the code and original assets remain open for reuse.
-
-Older games, Farcaster tools and onchain data projects are listed in [Projects](PROJECTS.md).
+[Tervain](https://github.com/0xAell/Tervain), a fantasy RPG prototype, is [playable in a browser](https://0xaell.github.io/Tervain/). [Warpkeep](https://github.com/0xAell/Warpkeep), Nullmere's predecessor, has halted. The rest is in [Projects](PROJECTS.md).
 
 ## Contact
 
-[X: @0xAell](https://x.com/0xAell) · [Farcaster: 0xael.eth](https://farcaster.xyz/0xael.eth)
+[X: @0xAell](https://x.com/0xAell) · [YouTube](https://www.youtube.com/@0xAell) · [Farcaster: 0xael.eth](https://farcaster.xyz/0xael.eth)
