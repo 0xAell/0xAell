@@ -4,7 +4,7 @@ A wider look at what I've been building and exploring. Each project has a short
 description and a status note; the linked sites and public repositories provide more detail.
 Status notes reflect the material reviewed in November 2026.
 
-[Profile](https://github.com/0xAell) · [Nullmere](#nullmere) · [Tervain](#tervain) · [Warpkeep](#warpkeep-halted) ·
+[Profile](https://github.com/0xAell) · [Nullmere](#nullmere) · [Waypoint](#waypoint) · [Tervain](#tervain) · [Warpkeep](#warpkeep-halted) ·
 [Farcaster](#farcaster-and-social-tools) · [Games](#games-and-world-prototypes) ·
 [Onchain tools](#onchain-data-and-tools) · [Research](#research-and-reference) · [Creative work](#creative-work)
 
@@ -13,6 +13,12 @@ Status notes reflect the material reviewed in November 2026.
 | Project | Purpose | Status |
 | --- | --- | --- |
 | [Nullmere](https://github.com/0xAell/Nullmere) | A native macOS persistent multiplayer 4X strategy MMO: Swift/Metal client, SpacetimeDB realm, on-device AI. [Trailer](https://github.com/0xAell/Nullmere/releases/tag/trailer) | In active development |
+
+## Waypoint
+
+| Project | Purpose | Status |
+| --- | --- | --- |
+| [Waypoint](https://github.com/0xAell/Waypoint) | Songs carried across languages: a catalog of bilingual lyric videos, with the original artist, the languages and a note on each song. Links and metadata only; the videos are on [YouTube](https://www.youtube.com/@0xAell). | Published catalog; new videos added as they come out |
 
 ## Tervain
 

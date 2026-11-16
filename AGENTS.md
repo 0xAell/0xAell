@@ -8,10 +8,11 @@ release ledger or a substitute for individual project documentation.
 - Lead with product purpose and concrete engineering work. Keep the voice direct,
   professional, and personal. Avoid vanity statistics, stale inventory counts,
   decorative badge walls, invented credentials, and unsupported success claims.
-- Distinguish live products from development targets. Nullmere is the visual
-  centerpiece and is in development. Tervain is a short line in the intro with
-  its live link: a playable browser prototype headed for a later Unreal Engine
-  port. Warpkeep has halted and is always described as halted.
+- Distinguish live products from development targets. The profile rests on two
+  pillars: Waypoint, the published catalog of bilingual lyric videos, and
+  Nullmere, which is in development and keeps its moonlit lake image. Tervain is
+  one line with its live link: a playable browser prototype. Warpkeep has halted
+  and is always described as halted.
 - Feature public projects only. Do not expose private repository names, local
   paths, credentials, or operational details in the public profile.
 - Preserve the owner's identity and links unless asked to change them. Verify
