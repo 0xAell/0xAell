@@ -4,22 +4,22 @@ A wider look at what I've been building and exploring. Each project has a short
 description and a status note; the linked sites and public repositories provide more detail.
 Status notes reflect the material reviewed in November 2026.
 
-[Profile](https://github.com/ael-dev3) · [Tervain](#tervain) · [Nullmere](#nullmere) · [Warpkeep](#warpkeep-halted) ·
+[Profile](https://github.com/ael-dev3) · [Nullmere](#nullmere) · [Tervain](#tervain) · [Warpkeep](#warpkeep-halted) ·
 [Farcaster](#farcaster-and-social-tools) · [Games](#games-and-world-prototypes) · [BitCraft](#bitcraft-community-tools) ·
 [Onchain tools](#onchain-data-and-tools) · [Research](#research-and-reference) ·
 [Creative work](#creative-work-and-planned-projects)
-
-## Tervain
-
-| Project | Purpose | Status |
-| --- | --- | --- |
-| [Tervain](https://github.com/ael-dev3/Tervain) | A single-player high-fantasy RPG. The browser prototype is the test bed for the world and its rules; the repository also holds the engine-agnostic core, exported data and a source-only C++ seed for a later Unreal Engine port. [Play](https://ael-dev3.github.io/Tervain/) | Playable browser prototype; in active development |
 
 ## Nullmere
 
 | Project | Purpose | Status |
 | --- | --- | --- |
 | [Nullmere](https://github.com/ael-dev3/Nullmere) | A native macOS persistent multiplayer 4X strategy MMO: Swift/Metal client, SpacetimeDB realm, on-device AI. [Trailer](https://github.com/ael-dev3/Nullmere/releases/tag/trailer) | In active development |
+
+## Tervain
+
+| Project | Purpose | Status |
+| --- | --- | --- |
+| [Tervain](https://github.com/ael-dev3/Tervain) | A single-player high-fantasy RPG. The browser prototype is the test bed for the world and its rules; the repository also holds the engine-agnostic core, exported data and a source-only C++ seed for a later Unreal Engine port. [Play](https://ael-dev3.github.io/Tervain/) | Playable browser prototype; in active development |
 
 ## Warpkeep (halted)
 

@@ -1,20 +1,30 @@
-# Ael
+<h1 align="center">Hi, I'm Ael</h1>
 
-I build games with AI coding agents and make bilingual AI lyric videos.
+<p align="center">I'm building Nullmere Online, a strategy MMO for macOS.</p>
 
-## Tervain
+<p align="center">Also <a href="https://github.com/ael-dev3/Tervain">Tervain</a>, a fantasy RPG prototype: <a href="https://ael-dev3.github.io/Tervain/">playable in a browser</a> now, Unreal Engine later.</p>
 
-A single-player high-fantasy RPG. The prototype runs in a desktop browser today
-and is being reworked into the seed for a later Unreal Engine port (5.9 or 6.0).
+<p align="center">I build with AI coding agents and make bilingual AI lyric videos.</p>
 
-**[Play Tervain](https://ael-dev3.github.io/Tervain/)** · [Source](https://github.com/ael-dev3/Tervain)
+<p align="center">
+  <img src="assets/nullmere/moonlit-lake.jpg" width="800" alt="Nullmere: a full moon and stars reflected in a still black lake.">
+</p>
 
-<a href="https://ael-dev3.github.io/Tervain/"><img src="assets/tervain/ford-meadow.jpg" alt="Tervain: the hero walks through tall meadow grass past timber-framed houses under a low evening sun."></a>
+## Nullmere Online
 
-## Other projects
+One persistent world around a still black lake, shared by every player: a native
+Swift and Metal client, a SpacetimeDB realm, on-device AI, and original 3D models,
+music and sound. In development; no public realm yet.
 
-- **[Nullmere Online](https://github.com/ael-dev3/Nullmere)**: a persistent strategy MMO for the Mac, with a native Swift and Metal client on a SpacetimeDB server. In development; no public realm yet. [Trailer](https://github.com/ael-dev3/Nullmere/releases/tag/trailer).
-- **[Warpkeep](https://github.com/ael-dev3/Warpkeep)**: a persistent strategy game connected to Farcaster, and Nullmere's predecessor. Development has halted; the code and original assets remain open for reuse.
+<p align="center">
+  <img src="assets/nullmere/citadel-night.jpg" width="800" alt="Nullmere: a walled citadel with lit windows and a surrounding village at night.">
+</p>
+
+[Repository](https://github.com/ael-dev3/Nullmere) · [Trailer](https://github.com/ael-dev3/Nullmere/releases/tag/trailer)
+
+## Earlier work
+
+[Warpkeep](https://github.com/ael-dev3/Warpkeep), Nullmere's predecessor, is a persistent strategy game connected to Farcaster. Development has halted; the code and original assets remain open for reuse.
 
 Older games, Farcaster tools and onchain data projects are listed in [Projects](PROJECTS.md).
 
