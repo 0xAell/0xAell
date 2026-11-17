@@ -1,6 +1,6 @@
 ## [Waypoint](https://github.com/0xAell/Waypoint)
 
-Bilingual lyric videos with the original lyrics and translation timed to the vocals. Most are Russian to English.
+Lyric videos with side-by-side translations.
 
 [Watch «Сингулярность» (Singularity) by Norma Tale & гокки](https://www.youtube.com/watch?v=axS7GxKMnhs)
 
