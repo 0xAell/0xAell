@@ -51,7 +51,7 @@ Development has halted; Nullmere is the successor. Repositories are archived.
 
 | Project | Purpose | Status |
 | --- | --- | --- |
-| [Ashen Hallow](https://github.com/0xAell/Ashen-Hallow) | A fantasy autobattler with tactical deployment, deterministic combat and army progression across rounds. | Browser game; archived |
+| [Ashen Hallow](https://github.com/0xAell/Ashen-Hallow) | A fantasy autobattler with tactical deployment, deterministic combat and army progression across rounds. [Play in a browser](https://0xaell.github.io/Ashen-Hallow/) | Archived |
 | [Mechabellum Prototype](https://github.com/0xAell/Mechabellum-prototype) | A positional autobattler experiment with upgrades, enemy deployments and simulation checks. | Earlier game prototype |
 | [DD.Game](https://github.com/0xAell/DD.Game) | An independent Degen Dogs underground-club concept; earlier contract experiments are preserved separately. | Static, non-interactive draft; paused |
 | [Clawgwarts](https://github.com/0xAell/Clawgwarts) | A Phaser academy world with agent simulations, interactive stations and a simulated action queue. | Interactive prototype |
@@ -61,8 +61,8 @@ Development has halted; Nullmere is the successor. Repositories are archived.
 
 | Project | Purpose | Status |
 | --- | --- | --- |
-| [Degen Dogs Mission 3](https://github.com/0xAell/Degen-Dogs-Mission-3) | Independent Base auction analytics, an inspectable archive and reproducible Python/SQLite exports. | Community dashboard and pipeline; archived |
-| [Silver Terminal](https://github.com/0xAell/Silver-terminal) | Hyperliquid SLV/USDC charts and downloadable candles, with a separate weekly historical reference. | Static chart site |
+| [Degen Dogs Mission 3](https://github.com/0xAell/Degen-Dogs-Mission-3) | Independent Base auction analytics, an inspectable archive and reproducible Python/SQLite exports. [Browse the dashboard](https://0xaell.github.io/Degen-Dogs-Mission-3/) | Archived dashboard and pipeline |
+| [Silver Terminal](https://github.com/0xAell/Silver-terminal) | [Open the SLV/USDC charts](https://0xaell.github.io/Silver-terminal/) for downloadable Hyperliquid candles, or [browse the weekly historical reference](https://0xaell.github.io/Silver-terminal/workbench/). | Static chart site |
 | [Silver](https://github.com/0xAell/Silver) | Charting source and data pipelines behind the terminal and historical reference. | Source and data tooling |
 
 ## Research and reference

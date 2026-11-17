@@ -1,8 +1,12 @@
+# Ael
+
+I build games and make bilingual lyric videos. Here are the two projects I spend most of my time on.
+
 ## Waypoint
 
-Songs carried across languages. Bilingual lyric videos: the original words and a translation on screen together, each word lit as it is sung. Mostly Russian into English.
+I translate and time songs so you can follow the original words and the translation together. Most go from Russian into English. In «Сингулярность» (Singularity), the words also change colour with the singer.
 
-[Catalog](https://github.com/0xAell/Waypoint) · [YouTube](https://www.youtube.com/@0xAell)
+[Watch Singularity by Norma Tale & гокки](https://www.youtube.com/watch?v=axS7GxKMnhs) · [Browse the catalog](https://github.com/0xAell/Waypoint)
 
 ## Nullmere Online
 
@@ -10,14 +14,15 @@ Songs carried across languages. Bilingual lyric videos: the original words and a
   <img src="assets/nullmere/moonlit-lake.jpg" width="800" alt="Nullmere: a full moon and stars reflected in a still black lake.">
 </p>
 
-One persistent world around a still black lake, shared by every player: a native
-Swift and Metal client on a SpacetimeDB realm. In development; no public realm yet.
+I'm building a multiplayer strategy game for Apple silicon Macs. Players found cities around a still black lake and race to raise a Moonspire with their allies. The client uses Swift and Metal, and SpacetimeDB keeps the shared world in sync. The game is in development.
 
-[Repository](https://github.com/0xAell/Nullmere) · [Trailer](https://github.com/0xAell/Nullmere/releases/tag/trailer)
+[Watch the trailer](https://github.com/0xAell/Nullmere/releases/tag/trailer) · [Visit Nullmere](https://nullmere.online) · [Explore the source](https://github.com/0xAell/Nullmere)
 
-## Also
+## Other projects
 
-[Tervain](https://github.com/0xAell/Tervain), a fantasy RPG prototype, is [playable in a browser](https://0xaell.github.io/Tervain/). [Warpkeep](https://github.com/0xAell/Warpkeep), Nullmere's predecessor, has halted. The rest is in [Projects](PROJECTS.md).
+[Play Tervain in your browser](https://0xaell.github.io/Tervain/) · [Source for the fantasy RPG prototype](https://github.com/0xAell/Tervain)
+
+Development on [Warpkeep](https://github.com/0xAell/Warpkeep), Nullmere's predecessor, has halted. My [project index](PROJECTS.md) covers earlier games, Farcaster clients and onchain tools.
 
 ## Contact
 
