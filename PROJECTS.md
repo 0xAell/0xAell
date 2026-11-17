@@ -43,7 +43,6 @@ Development has halted; Nullmere is the successor. Repositories are archived.
 | [Allthing](https://github.com/0xAell/Allthing) | A fast, independent Farcaster client on Snapchain and Hypersnap: read, cast, reply, schedule and attach media. Rust + Leptos on Cloudflare Workers. | Halted; archived, hosted service shut down |
 | [SnapMeter](https://github.com/0xAell/SnapMeter) | A real-time dashboard of active Farcaster accounts across Snapchain and Hypersnap, with a collector and Cloudflare ingestion. | Halted; archived |
 | [Overlap](https://github.com/0xAell/Overlap) | People discovery through collaboration intent and explainable, deterministic matching. | Mini App prototype |
-| [Overlap DB](https://github.com/0xAell/Overlap-DB) | Reusable social snapshots and collection scripts, with recent context and recorded coverage limits. | Dataset and tooling |
 | [Hypercast](https://github.com/0xAell/Hypercast) | Cast-history viewing through Hypersnap, with optional SpacetimeDB persistence. | Web prototype |
 | [Degen Dogs DAO](https://github.com/0xAell/DegenDogs-DAO) | Holder-gated proposals, votes and discussion through a Farcaster Mini App. | Governance app source |
 
